@@ -80,7 +80,7 @@ const brandon = {
 
 <div align="center">
 
-### 🚀 [VitalWay - Sistema de Traslados Médicos]([https://gestion-de-usuarios-frontend.vercel.app](https://vitalway-front.vercel.app/)
+### 🚀 [VitalWay - Sistema de Traslados Médicos]([https://gestion-de-usuarios-frontend.vercel.app](https://vitalway-front.vercel.app/))
 **Stack:** React • Node.js • MongoDB • Express • Vercel
 > Plataforma completa para gestión de traslados de pacientes en ambulancias. Incluye sistema de usuarios, gestión de servicios médicos y panel administrativo.
 > 
