@@ -84,7 +84,7 @@ const brandon = {
 **Stack:** React • Node.js • MongoDB • Express • Vercel
 > Plataforma completa para gestión de traslados de pacientes en ambulancias. Incluye sistema de usuarios, gestión de servicios médicos y panel administrativo.
 > 
-> **🔗 Enlaces:** [Frontend](https://github.com/Vitalway/vitalway_Front) | [Backend](https://github.com/Vitalway/vitalway_Back) | [Demo](https://gestion-de-usuarios-frontend.vercel.app)
+> **🔗 Enlaces:** [Frontend](https://github.com/Vitalway/vitalway_Front) | [Backend](https://github.com/Vitalway/vitalway_Back) | [Demo](https://vitalway-front.vercel.app/)
 
 ### 💼 [CV Interactivo - Parcial VanillaJS](https://github.com/brandonstevenz2002/Parcial-VanillaJS-Vargas-406089)
 **Stack:** HTML • CSS • Vanilla JavaScript
