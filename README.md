@@ -30,6 +30,14 @@ const brandon = {
 
 ---
 
+## 🏆 Certificaciones
+
+<div align="center">
+  <iframe src="https://profiles.badgeclaimed.com/user-7191/badges/urn:uuid:dd274555-9d2e-4d1a-8285-588f79fffaca.html" width="300" height="300" frameborder="0"></iframe>
+</div>
+
+---
+
 ## 🛠️ Mi Arsenal Tecnológico
 
 <div align="center">
@@ -80,7 +88,7 @@ const brandon = {
 
 <div align="center">
 
-### 🚀 [VitalWay - Sistema de Traslados Médicos]([https://gestion-de-usuarios-frontend.vercel.app](https://vitalway-front.vercel.app/))
+### 🚀 [VitalWay - Sistema de Traslados Médicos](https://vitalway-front.vercel.app/)
 **Stack:** React • Node.js • MongoDB • Express • Vercel
 > Plataforma completa para gestión de traslados de pacientes en ambulancias. Incluye sistema de usuarios, gestión de servicios médicos y panel administrativo.
 > 
