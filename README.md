@@ -33,7 +33,13 @@ const brandon = {
 ## 🏆 Certificaciones
 
 <div align="center">
-  <iframe src="https://profiles.badgeclaimed.com/user-7191/badges/urn:uuid:dd274555-9d2e-4d1a-8285-588f79fffaca.html" width="300" height="300" frameborder="0"></iframe>
+  <a href="https://profiles.badgeclaimed.com/user-7191/badges/urn:uuid:dd274555-9d2e-4d1a-8285-588f79fffaca.html" target="_blank">
+    <img src="https://profiles.badgeclaimed.com/user-7191/badges/urn:uuid:dd274555-9d2e-4d1a-8285-588f79fffaca.png" alt="Full Stack Empresarial con Spring Boot y Angular - Dev Senior Code" width="250"/>
+  </a>
+  
+  **Full Stack Empresarial con Spring Boot y Angular**
+  
+  *Dev Senior Code* 🎓
 </div>
 
 ---
