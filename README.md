@@ -34,12 +34,19 @@ const brandon = {
 
 <div align="center">
   <a href="https://profiles.badgeclaimed.com/user-7191/badges/urn:uuid:dd274555-9d2e-4d1a-8285-588f79fffaca.html" target="_blank">
-    <img src="https://profiles.badgeclaimed.com/user-7191/badges/urn:uuid:dd274555-9d2e-4d1a-8285-588f79fffaca.png" alt="Full Stack Empresarial con Spring Boot y Angular - Dev Senior Code" width="250"/>
+    <img src="https://d2wpx7yfzfl6x2.cloudfront.net/badge-images/9d185110-593c-4a74-8f54-b82e7f7aae80_f4cc44d65ce74f2f93be0fd682930d54.png" alt="Full Stack Empresarial con Spring Boot y Angular" width="300"/>
   </a>
   
   **Full Stack Empresarial con Spring Boot y Angular**
   
-  *Dev Senior Code* 🎓
+  *Badge Claimed - Dev Senior Code* 🎓
+  
+  **Skills certificadas:**
+  - ✅ Arquitectura de aplicaciones empresariales
+  - ✅ Diseño e implementación de APIs REST
+  - ✅ Java & Spring Boot (JPA, Security)
+  - ✅ Angular (componentes, routing, RxJS)
+  - ✅ Integración de IA en aplicaciones
 </div>
 
 ---
