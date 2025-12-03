@@ -1,157 +1,192 @@
-# 👋 ¡Hola! Soy Brandon
+# 👋 ¡Hola! Soy Brandon Vargas
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%F0%9F%9A%80;JavaScript+Enthusiast+%E2%9C%A8;Building+Amazing+Web+Experiences+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;JavaScript+%7C+React+%7C+Node.js;Creando+Soluciones+Innovadoras" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-vargas-dev)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://parcial-vanilla-js-vargas-406089.vercel.app/)
+  [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandon.dev.contact@gmail.com)
+  
 </div>
 
 ---
 
-## 🎯 Sobre mí
+## 🚀 Sobre Mí
 
-> **Desarrollador Full Stack apasionado** por crear experiencias web increíbles y soluciones tecnológicas innovadoras.
+Desarrollador Full Stack especializado en el stack **MERN** y desarrollo de aplicaciones web modernas. Apasionado por transformar ideas en soluciones digitales innovadoras, con experiencia comprobada en proyectos del sector salud y servicios en línea.
 
 ```javascript
 const brandon = {
-    ubicación: "🌎 Colombia",
-    rol: "Full Stack Developer",
-    pasiones: ["Código limpio", "UI/UX", "Soluciones médicas"],
-    proyectoDestacado: "VitalWay - Traslados médicos 🚑",
-    lema: "Transformando ideas en realidad digital ✨"
+  ubicación: "🌎 Cali, Colombia",
+  rol: "Full Stack Developer",
+  especialización: "MERN Stack",
+  pasiones: ["Código limpio", "UI/UX", "Soluciones médicas"],
+  proyectoDestacado: "VitalWay - Traslados médicos 🚑",
+  lema: "Transformando ideas en realidad digital ✨"
 };
 ```
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
+---
+
+## 💼 Experiencia & Certificaciones
+
+### 🎓 Certificación Profesional
+
+<table>
+<tr>
+<td width="120">
+<img src="https://d2wpx7yfzfl6x2.cloudfront.net/badge-images/9d185110-593c-4a74-8f54-b82e7f7aae80_f4cc44d65ce74f2f93be0fd682930d54.png" width="100"/>
+</td>
+<td>
+
+**Full Stack Empresarial con Spring Boot y Angular**  
+*Dev Senior Code - Badge Claimed*
+
+- Arquitectura de aplicaciones empresariales
+- Diseño e implementación de APIs REST
+- Java & Spring Boot (JPA, Security, Microservicios)
+- Angular (Componentes, Routing, RxJS, State Management)
+- Integración de IA en aplicaciones
+
+[Ver Certificación →](https://profiles.badgeclaimed.com/user-7191/badges/urn:uuid:dd274555-9d2e-4d1a-8285-588f79fffaca.html)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 Certificaciones
+## 🛠️ Stack Tecnológico
 
-<div align="center">
-  <a href="https://profiles.badgeclaimed.com/user-7191/badges/urn:uuid:dd274555-9d2e-4d1a-8285-588f79fffaca.html" target="_blank">
-    <img src="https://d2wpx7yfzfl6x2.cloudfront.net/badge-images/9d185110-593c-4a74-8f54-b82e7f7aae80_f4cc44d65ce74f2f93be0fd682930d54.png" alt="Full Stack Empresarial con Spring Boot y Angular" width="300"/>
-  </a>
-  
-  **Full Stack Empresarial con Spring Boot y Angular**
-  
-  *Badge Claimed - Dev Senior Code* 🎓
-  
-  **Skills certificadas:**
-  - ✅ Arquitectura de aplicaciones empresariales
-  - ✅ Diseño e implementación de APIs REST
-  - ✅ Java & Spring Boot (JPA, Security)
-  - ✅ Angular (componentes, routing, RxJS)
-  - ✅ Integración de IA en aplicaciones
-</div>
-
----
-
-## 🛠️ Mi Arsenal Tecnológico
+### 💪 Especialidades Core
 
 <div align="center">
 
-### 🎨 **Frontend Magic**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### ⚡ **Backend Power**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🚀 **Deployment & Tools**
+#### Deployment & Tools
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
+### 📚 Ampliando Conocimientos
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+
+---
+
+## 📂 Proyectos Destacados
+
+### 🚑 VitalWay - Sistema de Traslados Médicos
+> Plataforma integral para la gestión y coordinación de servicios de ambulancias
+
+**Tecnologías:** React · Node.js · Express · MongoDB · Vercel
+
+**Características principales:**
+- 🔐 Sistema completo de autenticación y autorización
+- 👥 Gestión de usuarios con roles (Admin, Operador, Cliente)
+- 📊 Panel administrativo para seguimiento de servicios
+- 🚨 Gestión en tiempo real de solicitudes de traslado
+- 📱 Interfaz responsive y moderna
+
+**Enlaces:** [Demo en vivo](https://vitalway-front.vercel.app/) · [Frontend](https://github.com/Vitalway/vitalway_Front) · [Backend](https://github.com/Vitalway/vitalway_Back)
+
+---
+
+### 💼 CV Interactivo Profesional
+> Currículum vitae dinámico desarrollado con JavaScript puro
+
+**Tecnologías:** HTML5 · CSS3 · Vanilla JavaScript
+
+**Características principales:**
+- 🎨 Diseño moderno y profesional
+- 📱 Totalmente responsive
+- ⚡ Rendimiento optimizado sin frameworks
+- 🎭 Animaciones suaves y transiciones elegantes
+
+**Enlaces:** [Ver proyecto →](https://github.com/brandonstevenz2002/Parcial-VanillaJS-Vargas-406089)
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcadba4-0e83-4dd6-b9f0-195b4d6d8fa5.gif" width="100">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brandonstevenz2002&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=6366F1&title_color=6366F1&icon_color=6366F1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonstevenz2002&layout=compact&langs_count=8&theme=github_dark&border_color=6366F1&title_color=6366F1"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brandonstevenz2002&theme=github-dark-blue&border=6366F1&ring=6366F1&fire=6366F1" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Enfoque Profesional
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brandonstevenz2002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonstevenz2002&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+```typescript
+interface DeveloperMindset {
+  codeQuality: "Clean Code & Best Practices";
+  architecture: "Scalable & Maintainable";
+  testing: "Quality Assurance";
+  learning: "Continuous Improvement";
+  collaboration: "Team Player & Communicator";
+}
+```
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brandonstevenz2002&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🎨 Proyectos Destacados
-
-<div align="center">
-
-### 🚀 [VitalWay - Sistema de Traslados Médicos](https://vitalway-front.vercel.app/)
-**Stack:** React • Node.js • MongoDB • Express • Vercel
-> Plataforma completa para gestión de traslados de pacientes en ambulancias. Incluye sistema de usuarios, gestión de servicios médicos y panel administrativo.
-> 
-> **🔗 Enlaces:** [Frontend](https://github.com/Vitalway/vitalway_Front) | [Backend](https://github.com/Vitalway/vitalway_Back) | [Demo](https://vitalway-front.vercel.app/)
-
-### 💼 [CV Interactivo - Parcial VanillaJS](https://github.com/brandonstevenz2002/Parcial-VanillaJS-Vargas-406089)
-**Stack:** HTML • CSS • Vanilla JavaScript
-> Currículum vitae interactivo desarrollado como proyecto académico, demostrando dominio de tecnologías web fundamentales sin frameworks.
-> 
-> **✨ Características:** Diseño responsive, animaciones CSS, interactividad con JS puro
-
-### 🔥 Próximos Proyectos
-**En desarrollo:** Nuevas soluciones Full Stack utilizando las últimas tecnologías
-> Siempre trabajando en proyectos innovadores que resuelvan problemas reales
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
-</div>
+**Principios de desarrollo:**
+- ✅ Código limpio y mantenible
+- ✅ Arquitecturas escalables
+- ✅ Experiencia de usuario excepcional
+- ✅ Documentación clara y precisa
+- ✅ Aprendizaje continuo
 
 ---
 
-## 🤝 ¡Conectemos!
+## 🌟 Objetivos Actuales
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-vargas-dev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brandon_dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://parcial-vanilla-js-vargas-406089.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandon.dev.contact@gmail.com)
-
-</div>
+- 🔧 Profundizando en arquitecturas de microservicios
+- ☁️ Explorando soluciones cloud-native
+- 📚 Ampliando conocimientos en Spring Boot y Angular
+- 🚀 Contribuyendo a proyectos open source
+- 💡 Desarrollando soluciones innovadoras en HealthTech
 
 ---
 
+## 📬 Contacto
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-  
-  ### 💫 *"El código es poesía en movimiento"*
-  
-  <img src="https://komarev.com/ghpvc/?username=brandonstevenz2002&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+
+¿Tienes un proyecto interesante o quieres colaborar?
+
+**¡Conectemos!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brandon_Vargas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-vargas-dev)
+[![Email](https://img.shields.io/badge/Email-brandon.dev.contact@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandon.dev.contact@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://parcial-vanilla-js-vargas-406089.vercel.app/)
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
-  
-  **¡Gracias por visitar mi perfil! 🚀**
-  
-  *¿Tienes un proyecto interesante? ¡Hablemos!*
+<img src="https://komarev.com/ghpvc/?username=brandonstevenz2002&label=Visitas%20al%20perfil&color=6366F1&style=flat" alt="Profile Views" />
+
+**Gracias por visitar mi perfil** ⚡
+
 </div>
