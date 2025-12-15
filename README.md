@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/%E2%97%89_VER_PORTFOLIO-00F5FF?style=for-the-badge&labelColor=000000&logo=google-chrome&logoColor=00F5FF)](https://parcial-vanilla-js-vargas-406089.vercel.app/)
 [![Impadoc](https://img.shields.io/badge/%F0%9F%8F%A2_IMPADOC-DEVELOPER-7C3AED?style=for-the-badge&labelColor=000000)](https://parcial-vanilla-js-vargas-406089.vercel.app/)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ## ━━━━━━━━━━━━ ⚡ SISTEMA INICIANDO ⚡ ━━━━━━━━━━━━
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="500">
 
 </div>
 
@@ -46,11 +46,11 @@ class DeveloperProfile {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
 
 ## ━━━━━━━━━ 🎓 CERTIFICACIÓN PROFESIONAL 🎓 ━━━━━━━━━
 
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="200">
 
 </div>
 
@@ -86,12 +86,11 @@ class DeveloperProfile {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
 
 ## ━━━━━━━━━━ 💻 STACK TECNOLÓGICO 💻 ━━━━━━━━━━
 
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
@@ -167,11 +166,11 @@ class DeveloperProfile {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
 
 ## ━━━━━━━━━━ 🚀 PROYECTOS DESTACADOS 🚀 ━━━━━━━━━━
 
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="400">
 
 </div>
 
@@ -260,11 +259,11 @@ class DeveloperProfile {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
 
 ## ━━━━━━━━━━ 📊 ESTADÍSTICAS DE GITHUB 📊 ━━━━━━━━━━
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="400">
 
 </div>
 
@@ -282,11 +281,11 @@ class DeveloperProfile {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
 
 ## ━━━━━━━━━━━ 🎯 ENFOQUE ACTUAL 🎯 ━━━━━━━━━━━
 
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
 </div>
 
@@ -337,11 +336,11 @@ class DeveloperProfile {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
 
 ## ━━━━━━━━━━━ 🌐 CONECTEMOS 🌐 ━━━━━━━━━━━
 
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="200">
 
 ### ⚡ ¿LISTO PARA COLABORAR? ⚡
 
@@ -360,7 +359,7 @@ class DeveloperProfile {
 
 [![Portfolio](https://img.shields.io/badge/🚀_VER_PORTFOLIO-00F5FF?style=for-the-badge&labelColor=000000&logo=google-chrome&logoColor=00F5FF)](https://parcial-vanilla-js-vargas-406089.vercel.app/)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
 
 <img src="https://komarev.com/ghpvc/?username=brandonstevenz2002&label=Visitas+al+Perfil&color=00F5FF&style=for-the-badge" alt="Profile Views" />
 
@@ -376,7 +375,7 @@ class DeveloperProfile {
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="1000">
 
 **『 ESTADO: DISPONIBLE PARA NUEVOS PROYECTOS 』**
 
