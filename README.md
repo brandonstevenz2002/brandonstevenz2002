@@ -1,501 +1,334 @@
 <div align="center">
 
-# 『 BRANDON VARGAS 』
+# ⟪ BRANDON VARGAS ⟫
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%40+Impadoc;Specialized+in+Backend+Architecture;JavaScript+%E2%80%A2+Node.js+%E2%80%A2+React+%E2%80%A2+Express" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%E2%9A%A1+FULL+STACK+DEVELOPER+%40+IMPADOC+%E2%9A%A1;%F0%9F%9A%80+JAVASCRIPT+%E2%80%A2+NODE.JS+%E2%80%A2+REACT+%E2%80%A2+EXPRESS+%F0%9F%9A%80;%F0%9F%94%A5+CONSTRUYENDO+EL+FUTURO+CON+C%C3%93DIGO+%F0%9F%94%A5" alt="Typing SVG" />
 
-<table>
-<tr>
-<td>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-```ascii
-╔══════════════════════════════════╗
-║   🚀 BUILDING THE FUTURE        ║
-║   💻 ONE LINE OF CODE AT A TIME ║
-╚══════════════════════════════════╝
-```
+[![Portfolio](https://img.shields.io/badge/%E2%97%89_VER_PORTFOLIO-00F5FF?style=for-the-badge&labelColor=000000&logo=google-chrome&logoColor=00F5FF)](https://parcial-vanilla-js-vargas-406089.vercel.app/)
+[![Impadoc](https://img.shields.io/badge/%F0%9F%8F%A2_IMPADOC-DEVELOPER-7C3AED?style=for-the-badge&labelColor=000000)](https://parcial-vanilla-js-vargas-406089.vercel.app/)
 
-</td>
-</tr>
-</table>
-
-[![Portfolio](https://img.shields.io/badge/◉_PORTFOLIO-VIEW_PROJECTS-00F5FF?style=for-the-badge&labelColor=0A0E27&logoColor=white)](https://parcial-vanilla-js-vargas-406089.vercel.app/)
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
 
 ---
 
-## ⚡ SYSTEM.INITIALIZE()
+<div align="center">
 
-<table>
-<tr>
-<td width="50%">
+## ━━━━━━━━━━━━ ⚡ SISTEMA INICIANDO ⚡ ━━━━━━━━━━━━
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+
+</div>
 
 ```javascript
-class Developer {
+class DeveloperProfile {
   constructor() {
-    this.name = "Brandon Vargas";
-    this.role = "Full Stack Developer";
-    this.company = "Impadoc";
-    this.location = "Cali, Colombia 🇨🇴";
+    this.nombre = "Brandon Vargas";
+    this.rol = "Full Stack Developer";
+    this.empresa = "Impadoc";
+    this.ubicacion = "🌎 Cali, Colombia";
+    this.estado = "🟢 Disponible para colaborar";
   }
   
-  getExpertise() {
-    return [
-      "Backend Architecture",
-      "RESTful API Design",
-      "Database Engineering",
-      "Authentication Systems"
-    ];
-  }
-  
-  getCurrentMission() {
-    return "Building production-ready" +
-           "healthcare solutions";
+  especialidades() {
+    return {
+      backend: "🔧 Arquitectura de APIs",
+      frontend: "🎨 Interfaces Modernas",
+      database: "💾 Diseño de Bases de Datos",
+      security: "🔐 Sistemas de Autenticación"
+    };
   }
 }
-
-const brandon = new Developer();
 ```
 
-</td>
-<td width="50%">
+<div align="center">
 
-### 『 PROFILE 』
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-**Full Stack Developer** especializado en arquitecturas backend robustas y desarrollo de APIs escalables.
+## ━━━━━━━━━ 🎓 CERTIFICACIÓN PROFESIONAL 🎓 ━━━━━━━━━
 
-🎯 **Expertise:** Sistemas empresariales y soluciones del sector salud
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="400">
 
-🔒 **Focus:** Seguridad, rendimiento y código limpio
+</div>
 
-⚡ **Mission:** Transformar ideas complejas en soluciones digitales elegantes
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎓 CREDENTIALS.VERIFIED
-
-<table>
+<table align="center">
 <tr>
-<td width="140" align="center">
-<img src="https://d2wpx7yfzfl6x2.cloudfront.net/badge-images/9d185110-593c-4a74-8f54-b82e7f7aae80_f4cc44d65ce74f2f93be0fd682930d54.png" width="120"/>
+<td width="160" align="center">
+<img src="https://d2wpx7yfzfl6x2.cloudfront.net/badge-images/9d185110-593c-4a74-8f54-b82e7f7aae80_f4cc44d65ce74f2f93be0fd682930d54.png" width="140"/>
 </td>
-<td>
+<td width="600">
 
-### **Full Stack Empresarial con Spring Boot y Angular**
+### 🏆 **Full Stack Empresarial con Spring Boot y Angular**
 
-**Dev Senior Code** • *Professional Certification*
+**Dev Senior Code** • *Certificación Profesional Verificada*
 
 ```yaml
-Skills Acquired:
-  - Enterprise Application Architecture
-  - RESTful API Design & Implementation
-  - Spring Boot Ecosystem (JPA, Security, Microservices)
-  - Angular Framework (Components, RxJS, State Management)
-  - AI Integration in Web Applications
+🎯 Habilidades:
+  - ⚙️ Arquitectura Empresarial
+  - 🔌 Diseño e Implementación de APIs REST
+  - ☕ Spring Boot Ecosystem
+  - 🅰️ Angular Framework Avanzado
+  - 🤖 Integración de IA en Aplicaciones
 ```
 
-🔗 [**Verify Certification →**](https://profiles.badgeclaimed.com/user-7191/badges/urn:uuid:dd274555-9d2e-4d1a-8285-588f79fffaca.html)
+<div align="center">
+
+[![Verificar](https://img.shields.io/badge/🔍_VERIFICAR_CERTIFICACIÓN-00FF00?style=for-the-badge&labelColor=000000)](https://profiles.badgeclaimed.com/user-7191/badges/urn:uuid:dd274555-9d2e-4d1a-8285-588f79fffaca.html)
+
+</div>
 
 </td>
 </tr>
 </table>
 
----
-
-## 💠 TECH_STACK.JSON
-
 <div align="center">
 
-### ◢ BACKEND INFRASTRUCTURE ◣
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## ━━━━━━━━━━ 💻 STACK TECNOLÓGICO 💻 ━━━━━━━━━━
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
 
 </div>
 
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║  RUNTIME & FRAMEWORKS                                         ║
-╠═══════════════════════════════════════════════════════════════╣
-║  Node.js          ████████████████████░ 95%  ⚡ Primary       ║
-║  Express.js       ████████████████████░ 95%  🚀 Expert        ║
-║  JWT Auth         ███████████████████░░ 90%  🔐 Security      ║
-╠═══════════════════════════════════════════════════════════════╣
-║  DATABASES                                                    ║
-╠═══════════════════════════════════════════════════════════════╣
-║  MongoDB          ███████████████████░░ 90%  📊 NoSQL         ║
-║  MySQL            ██████████████████░░░ 85%  🗄️ SQL           ║
-╠═══════════════════════════════════════════════════════════════╣
-║  API TESTING                                                  ║
-╠═══════════════════════════════════════════════════════════════╣
-║  Postman          ████████████████████░ 95%  🧪 Testing       ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+### 🔥 BACKEND DEVELOPMENT
 
 <div align="center">
-
-### ◢ FRONTEND DEVELOPMENT ◣
-
-</div>
-
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║  CORE TECHNOLOGIES                                            ║
-╠═══════════════════════════════════════════════════════════════╣
-║  JavaScript       ████████████████████░ 95%  ⭐ Advanced      ║
-║  React            ███████████████████░░ 90%  ⚛️ Components    ║
-║  HTML5 / CSS3     ████████████████████░ 95%  🎨 Semantic      ║
-║  Vite             ██████████████████░░░ 85%  ⚡ Build Tool    ║
-╠═══════════════════════════════════════════════════════════════╣
-║  STYLING FRAMEWORKS                                           ║
-╠═══════════════════════════════════════════════════════════════╣
-║  Bootstrap        ███████████████████░░ 90%  📱 Responsive    ║
-║  Tailwind CSS     ██████████████████░░░ 85%  🎯 Utility       ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-
-### ◢ DEVOPS & TOOLS ◣
-
-</div>
-
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║  VERSION CONTROL                                              ║
-╠═══════════════════════════════════════════════════════════════╣
-║  Git              ████████████████████░ 95%  🌿 Flow          ║
-║  GitHub           ████████████████████░ 95%  🐙 Collaboration ║
-╠═══════════════════════════════════════════════════════════════╣
-║  DEPLOYMENT                                                   ║
-╠═══════════════════════════════════════════════════════════════╣
-║  Vercel           ███████████████████░░ 90%  ☁️ Cloud         ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-
-### 『 TECHNOLOGY BADGES 』
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+```ascii
+╔══════════════════════════════════════════════════════════════════╗
+║  🚀 Node.js          ████████████████████████ 95%  ⚡ Principal  ║
+║  ⚙️ Express.js       ████████████████████████ 95%  🔥 Experto    ║
+║  🔐 JWT Auth         ███████████████████████░ 90%  🛡️ Seguridad  ║
+║  🍃 MongoDB          ███████████████████████░ 90%  📊 NoSQL      ║
+║  🐬 MySQL            ██████████████████████░░ 85%  🗄️ SQL        ║
+║  📮 Postman          ████████████████████████ 95%  🧪 Testing    ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+### 🎨 FRONTEND DEVELOPMENT
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</div>
+
+```ascii
+╔══════════════════════════════════════════════════════════════════╗
+║  ⚡ JavaScript        ████████████████████████ 95%  ⭐ Avanzado   ║
+║  ⚛️ React             ███████████████████████░ 90%  🎯 Experto    ║
+║  🎨 HTML5 / CSS3      ████████████████████████ 95%  💎 Semántico  ║
+║  ⚡ Vite              ██████████████████████░░ 85%  🚀 Build      ║
+║  📱 Bootstrap         ███████████████████████░ 90%  💫 Responsive ║
+║  🎯 Tailwind CSS      ██████████████████████░░ 85%  ✨ Utility    ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+### ⚙️ DEVOPS & HERRAMIENTAS
+
+<div align="center">
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
----
-
-## 🚀 PROJECTS.DEPLOYED
+```ascii
+╔══════════════════════════════════════════════════════════════════╗
+║  🌿 Git               ████████████████████████ 95%  🔄 Flow       ║
+║  🐙 GitHub            ████████████████████████ 95%  👥 Collab     ║
+║  ☁️ Vercel            ███████████████████████░ 90%  🚀 Deploy     ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
 
-### ◢ FEATURED WORK ◣
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## ━━━━━━━━━━ 🚀 PROYECTOS DESTACADOS 🚀 ━━━━━━━━━━
+
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
 
 </div>
 
-<table>
-<tr>
-<td width="50%">
-
-### 🏥 **VitalWay**
-#### Medical Transport Management System
-
-```yaml
-Stack:
-  Frontend: React + Vite
-  Backend: Node.js + Express
-  Database: MongoDB
-  Auth: JWT
-  Deploy: Vercel
-```
-
-**『 SYSTEM ARCHITECTURE 』**
-
-```ascii
-┌─────────────────────────────────┐
-│   🎨 REACT SPA                  │
-│   ├─ Components                 │
-│   ├─ Custom Hooks               │
-│   ├─ Services Layer             │
-│   └─ State Management           │
-└─────────────────────────────────┘
-           ↕ REST API
-┌─────────────────────────────────┐
-│   ⚙️ EXPRESS SERVER             │
-│   ├─ JWT Authentication         │
-│   ├─ Role-Based Access          │
-│   ├─ Controllers                │
-│   └─ Middleware Stack           │
-└─────────────────────────────────┘
-           ↕ Mongoose ODM
-┌─────────────────────────────────┐
-│   🗄️ MONGODB                    │
-│   ├─ User Management            │
-│   ├─ Service Requests           │
-│   └─ Analytics Pipeline         │
-└─────────────────────────────────┘
-```
-
-</td>
-<td width="50%">
-
-**『 KEY FEATURES 』**
-
-```typescript
-interface VitalWayFeatures {
-  authentication: {
-    method: "JWT",
-    encryption: "bcrypt",
-    sessions: "Stateless"
-  },
-  
-  authorization: {
-    roles: ["Admin", "Operator", "Client"],
-    permissions: "Role-based"
-  },
-  
-  features: {
-    realtime: "Service tracking",
-    analytics: "MongoDB aggregation",
-    responsive: "Mobile-first design"
-  },
-  
-  architecture: {
-    pattern: "MVC",
-    api: "RESTful",
-    security: "Input validation"
-  }
-}
-```
-
-**『 LIVE DEPLOYMENT 』**
-
-🌐 [**Live Demo**](https://vitalway-front.vercel.app/)
-
-📂 [**Frontend Repo**](https://github.com/Vitalway/vitalway_Front)
-
-📂 [**Backend Repo**](https://github.com/Vitalway/vitalway_Back)
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="50%">
-
-### 💼 **Interactive Professional CV**
-#### Vanilla JavaScript Portfolio
-
-```yaml
-Stack:
-  Core: Pure JavaScript (ES6+)
-  Markup: HTML5 Semantic
-  Styling: CSS3 + Animations
-  Build: No Dependencies
-```
-
-**『 TECHNICAL HIGHLIGHTS 』**
-
-- ⚡ **Zero Dependencies** - Pure JavaScript
-- 🎯 **Performance Optimized** - Minimal footprint
-- 📱 **Fully Responsive** - Mobile-first approach
-- 🎨 **Custom Animations** - CSS3 transitions
-- 🏗️ **Modular Architecture** - Clean code structure
-
-</td>
-<td width="50%">
-
-**『 CODE STRUCTURE 』**
-
-```ascii
-portfolio/
-├── index.html
-├── styles/
-│   ├── main.css
-│   ├── animations.css
-│   └── responsive.css
-├── scripts/
-│   ├── app.js
-│   ├── animations.js
-│   └── utils.js
-└── assets/
-    ├── images/
-    └── fonts/
-```
-
-**『 REPOSITORY 』**
-
-📂 [**View Source Code**](https://github.com/brandonstevenz2002/Parcial-VanillaJS-Vargas-406089)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 ANALYTICS.DASHBOARD
+### 🏥 VITALWAY - Sistema de Gestión de Traslados Médicos
 
 <div align="center">
 
-### ◢ GITHUB STATISTICS ◣
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brandonstevenz2002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00F5FF&title_color=00F5FF&icon_color=00F5FF&bg_color=0A0E27&border_radius=10"/>
+</div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonstevenz2002&layout=compact&langs_count=8&theme=tokyonight&border_color=00F5FF&title_color=00F5FF&bg_color=0A0E27&border_radius=10"/>
+```ascii
+┌───────────────────────────────────────────────────────────────────┐
+│                   🎨 ARQUITECTURA DEL SISTEMA                     │
+├───────────────────────────────────────────────────────────────────┤
+│                                                                   │
+│   ┌─────────────────────────────────────┐                        │
+│   │   ⚛️ REACT SPA                      │                        │
+│   │   ├─ 🎯 Componentes Modulares       │                        │
+│   │   ├─ 🎣 Custom Hooks                │                        │
+│   │   ├─ 🔌 Services Layer              │                        │
+│   │   └─ 📊 State Management            │                        │
+│   └─────────────────────────────────────┘                        │
+│                    ↕ REST API                                     │
+│   ┌─────────────────────────────────────┐                        │
+│   │   ⚙️ EXPRESS SERVER                 │                        │
+│   │   ├─ 🔐 JWT Authentication          │                        │
+│   │   ├─ 👥 Control de Roles            │                        │
+│   │   ├─ 🎮 Controllers                 │                        │
+│   │   └─ 🛡️ Middleware Stack            │                        │
+│   └─────────────────────────────────────┘                        │
+│                    ↕ Mongoose ODM                                 │
+│   ┌─────────────────────────────────────┐                        │
+│   │   🗄️ MONGODB                        │                        │
+│   │   ├─ 👤 Gestión de Usuarios         │                        │
+│   │   ├─ 🚑 Solicitudes de Servicio     │                        │
+│   │   └─ 📈 Pipeline de Analytics       │                        │
+│   └─────────────────────────────────────┘                        │
+│                                                                   │
+└───────────────────────────────────────────────────────────────────┘
+```
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=brandonstevenz2002&theme=tokyonight&border=00F5FF&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&background=0A0E27&border_radius=10" alt="GitHub Streak"/>
+**✨ Características Principales:**
+- 🔐 Autenticación JWT robusta
+- 👥 Sistema de roles (Admin, Operador, Cliente)
+- 📊 Panel administrativo completo
+- 🚨 Gestión en tiempo real
+- 📱 Diseño responsive
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=brandonstevenz2002&bg_color=0A0E27&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=false&border_radius=10&area_color=00F5FF" alt="Activity Graph"/>
+<div align="center">
+
+[![Demo](https://img.shields.io/badge/🌐_VER_DEMO-00FF00?style=for-the-badge&labelColor=000000)](https://vitalway-front.vercel.app/)
+[![Frontend](https://img.shields.io/badge/📂_FRONTEND-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)](https://github.com/Vitalway/vitalway_Front)
+[![Backend](https://img.shields.io/badge/📂_BACKEND-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)](https://github.com/Vitalway/vitalway_Back)
 
 </div>
 
 ---
 
-## ⚙️ DEVELOPMENT.PRINCIPLES
-
-<table>
-<tr>
-<td width="60%">
-
-```typescript
-interface ProfessionalStandards {
-  architecture: {
-    backend: "RESTful APIs, Microservices-ready",
-    frontend: "Component-based, Reusable",
-    database: "Normalized schemas, Optimized queries",
-    security: "JWT, bcrypt, Input validation, CORS"
-  },
-  
-  codeQuality: {
-    style: "Clean Code, DRY, SOLID principles",
-    testing: "Manual testing with Postman",
-    documentation: "JSDoc, Clear comments",
-    versioning: "Semantic versioning"
-  },
-  
-  workflow: {
-    versionControl: "Git flow, Semantic commits",
-    deployment: "CI/CD ready, Environment configs",
-    collaboration: "Code reviews, Team communication",
-    monitoring: "Error handling, Logging"
-  },
-  
-  performance: {
-    optimization: "Query optimization, Caching",
-    scalability: "Horizontal scaling ready",
-    efficiency: "Resource management"
-  }
-}
-```
-
-</td>
-<td width="40%">
-
-### 『 CORE VALUES 』
-
-```ascii
-╔═══════════════════════════╗
-║  ✓ Clean Architecture    ║
-║  ✓ Security First        ║
-║  ✓ Performance Focus     ║
-║  ✓ Scalable Solutions    ║
-║  ✓ Code Quality          ║
-║  ✓ Best Practices        ║
-║  ✓ Team Collaboration    ║
-║  ✓ Continuous Learning   ║
-╚═══════════════════════════╝
-```
-
-**『 METHODOLOGY 』**
-
-- 🎯 **Agile Development**
-- 🔄 **Iterative Improvement**
-- 📝 **Documentation-Driven**
-- 🧪 **Test-Oriented**
-- 🚀 **Deployment-Ready**
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 CURRENT.FOCUS
+### 💼 CV INTERACTIVO PROFESIONAL
 
 <div align="center">
 
-### ◢ LEARNING PATH ◣
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 </div>
 
-<table>
+**✨ Características:**
+- ⚡ Zero dependencias - JavaScript puro
+- 🎯 Optimizado al máximo
+- 📱 100% responsive
+- 🎨 Animaciones personalizadas
+- 🏗️ Arquitectura modular
+
+<div align="center">
+
+[![Ver Proyecto](https://img.shields.io/badge/📂_VER_CÓDIGO-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)](https://github.com/brandonstevenz2002/Parcial-VanillaJS-Vargas-406089)
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## ━━━━━━━━━━ 📊 ESTADÍSTICAS DE GITHUB 📊 ━━━━━━━━━━
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=brandonstevenz2002&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&border_radius=15" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonstevenz2002&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&border_radius=15" />
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=brandonstevenz2002&theme=radical&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&border_radius=15" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=brandonstevenz2002&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true&border_radius=15&area_color=00F5FF&custom_title=📈%20Actividad%20de%20Contribución" />
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## ━━━━━━━━━━━ 🎯 ENFOQUE ACTUAL 🎯 ━━━━━━━━━━━
+
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="400">
+
+</div>
+
+<table align="center">
 <tr>
-<td width="33%">
+<td width="33%" align="center">
+
+### 📚 APRENDIENDO
 
 ```bash
-#!/bin/bash
-
-# 📚 LEARNING
-TOPICS=(
-  "Advanced Node.js"
-  "Design Patterns"
-  "System Architecture"
-  "Database Optimization"
-  "API Security"
-  "Microservices"
-)
-
-echo "Expanding knowledge..."
+🔹 Node.js Avanzado
+🔹 Patrones de Diseño
+🔹 Arquitectura de Sistemas
+🔹 Optimización de DBs
+🔹 Seguridad de APIs
+🔹 Microservicios
 ```
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
+
+### 🚀 CONSTRUYENDO
 
 ```bash
-#!/bin/bash
-
-# 🚀 BUILDING
-PROJECTS=(
-  "Scalable APIs"
-  "Healthcare Solutions"
-  "Real-time Systems"
-  "Auth Services"
-  "Data Analytics"
-)
-
-echo "Creating solutions..."
+🔸 APIs Escalables
+🔸 Soluciones Healthcare
+🔸 Sistemas Real-time
+🔸 Servicios de Auth
+🔸 Data Analytics
 ```
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
+
+### ⚡ MEJORANDO
 
 ```bash
-#!/bin/bash
-
-# ⚡ IMPROVING
-SKILLS=(
-  "Code Efficiency"
-  "Problem Solving"
-  "System Design"
-  "Performance"
-  "Team Leadership"
-)
-
-echo "Leveling up..."
+🔶 Eficiencia de Código
+🔶 Resolución de Problemas
+🔶 Diseño de Sistemas
+🔶 Performance
+🔶 Liderazgo
 ```
 
 </td>
@@ -504,53 +337,47 @@ echo "Leveling up..."
 
 <div align="center">
 
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║                    🎓 CONTINUOUS GROWTH                       ║
-║  Backend Architecture → System Design → Team Leadership       ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-</div>
+## ━━━━━━━━━━━ 🌐 CONECTEMOS 🌐 ━━━━━━━━━━━
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
 
-## 🌐 CONNECT.ENDPOINT
-
-<div align="center">
-
-### ◢ LET'S BUILD SOMETHING AMAZING ◣
+### ⚡ ¿LISTO PARA COLABORAR? ⚡
 
 ```ascii
-┌─────────────────────────────────────────────────┐
-│                                                 │
-│  💡 Got a project idea?                         │
-│  🤝 Want to collaborate?                        │
-│  📬 Need a developer?                           │
-│                                                 │
-│  Visit my portfolio for contact information    │
-│  and explore my complete project showcase       │
-│                                                 │
-└─────────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║  💡 ¿Tienes un proyecto en mente?                         ║
+║  🤝 ¿Quieres colaborar?                                   ║
+║  📬 ¿Buscas un desarrollador?                             ║
+║                                                           ║
+║  Visita mi portfolio para información completa            ║
+║  y explora todos mis proyectos                            ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
 ```
 
-[![Portfolio](https://img.shields.io/badge/◉_VISIT_PORTFOLIO-00F5FF?style=for-the-badge&labelColor=0A0E27&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiA3TDEyIDEyTDIyIDdMMTIgMloiIHN0cm9rZT0iIzAwRjVGRiIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPHBhdGggZD0iTTIgMTdMMTIgMjJMMjIgMTciIHN0cm9rZT0iIzAwRjVGRiIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPHBhdGggZD0iTTIgMTJMMTIgMTdMMjIgMTIiIHN0cm9rZT0iIzAwRjVGRiIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc+)](https://parcial-vanilla-js-vargas-406089.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🚀_VER_PORTFOLIO-00F5FF?style=for-the-badge&labelColor=000000&logo=google-chrome&logoColor=00F5FF)](https://parcial-vanilla-js-vargas-406089.vercel.app/)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-<img src="https://komarev.com/ghpvc/?username=brandonstevenz2002&label=Profile+Views&color=00F5FF&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=brandonstevenz2002&label=Visitas+al+Perfil&color=00F5FF&style=for-the-badge" alt="Profile Views" />
 
 ```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║  ⚡ Thanks for visiting • Keep coding • Stay curious ⚡       ║
-║                                                               ║
-║  "Code is like humor. When you have to explain it,           ║
-║   it's bad." - Cory House                                    ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║              ⚡ GRACIAS POR VISITAR MI PERFIL ⚡                   ║
+║                                                                   ║
+║         "El código es poesía, y yo soy el poeta" 🚀               ║
+║                                                                   ║
+║              ⟪ CONSTRUYENDO EL FUTURO ⟫                           ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
 
-**『 STATUS: READY TO COLLABORATE 』**
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+**『 ESTADO: DISPONIBLE PARA NUEVOS PROYECTOS 』**
 
 </div>
