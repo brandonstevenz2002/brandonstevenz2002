@@ -11,25 +11,6 @@
 
 </div>
 
----
-
-## 🚀 Sobre mí
-
-```kotlin
-data class Developer(
-    val nombre: String = "Brandon Vargas",
-    val rol: String = "Full Stack & Mobile Developer",
-    val empresa: String = "Impadoc",
-    val ubicacion: String = "Cali, Colombia 🇨🇴",
-    val stack: List<String> = listOf(
-        "JavaScript", "Node.js", "React",
-        "Kotlin", "Android Studio"
-    ),
-    val enfoque: String = "Soluciones escalables, eficientes y multiplataforma"
-)
-```
-
----
 
 ## 💻 Stack Tecnológico
 
