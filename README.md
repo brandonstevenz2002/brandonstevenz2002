@@ -9,6 +9,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://parcial-vanilla-js-vargas-406089.vercel.app/)
 [![Impadoc](https://img.shields.io/badge/Impadoc-Developer-7C3AED?style=for-the-badge&logo=rocket&logoColor=white)](https://parcial-vanilla-js-vargas-406089.vercel.app/)
 
+![Visitas al perfil](https://komarev.com/ghpvc/?username=brandonstevenz2002&label=VISITAS+AL+PERFIL&color=00F5FF&style=for-the-badge)
+
 </div>
 
 
@@ -129,7 +131,7 @@ Desarrollo de aplicaciones nativas para Android utilizando las mejores práctica
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=brandonstevenz2002&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=brandonstevenz2002&theme=radical&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=brandonstevenz2002&theme=radical&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" />
 
 </div>
 
