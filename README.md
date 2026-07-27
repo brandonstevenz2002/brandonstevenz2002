@@ -130,14 +130,14 @@ Desarrollo de aplicaciones nativas para Android utilizando las mejores práctica
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=brandonstevenz2002&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" />
+<img width="49%" src="https://TU-DOMINIO-VERCEL.vercel.app/api?username=brandonstevenz2002&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=brandonstevenz2002&theme=radical&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" />
 
 </div>
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonstevenz2002&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" />
+<img width="40%" src="https://TU-DOMINIO-VERCEL.vercel.app/api/top-langs/?username=brandonstevenz2002&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" />
 
 </div>
 
