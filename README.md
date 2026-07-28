@@ -62,19 +62,6 @@ Desarrollador Full Stack con **[X años/meses]** de experiencia construyendo apl
 
 </div>
 
----
-
-### 📱 [Nombre real de tu proyecto Android]
-
-<!--
-  Esta sección necesita un proyecto concreto, igual que VitalWay. Una lista de
-  tecnologías sin repo ni demo no aporta evidencia. Si tienes un proyecto de
-  clase o personal en Kotlin, ponlo aquí con su link. Si no tienes ninguno
-  público todavía, considera subir uno antes de enviar este README —
-  aunque sea pequeño, cambia por completo la credibilidad de esta sección.
--->
-
-**Descripción:** [Qué hace la app en una frase]
 
 **Stack:** Kotlin · Jetpack Compose · MVVM · Retrofit · Room
 
