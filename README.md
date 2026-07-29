@@ -126,6 +126,12 @@ Soy un desarrollador **Full Stack** con enfoque en la creación de soluciones co
 
 <div align="center">
 
+### 👁️ Visitas al perfil
+
+<img src="https://profile-counter.glitch.me/brandonstevenz2002/count.svg" alt="Visitas al perfil" />
+
+<br /><br />
+
 | 🏆 **Contribuciones Totales** | 🔥 **Racha Actual** | ⏳ **Racha Más Larga** |
 |-------------------------------|----------------------|-------------------------|
 | <span style="font-size:2.5em; color:#00F5FF;">209</span> | <span style="font-size:2.5em; color:#00F5FF;">2 días</span> | <span style="font-size:2.5em; color:#00F5FF;">4 días</span> |
@@ -142,6 +148,7 @@ Soy un desarrollador **Full Stack** con enfoque en la creación de soluciones co
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonstevenz2002&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" />
 
 </div>
+
 ---
 
 <div align="center">
