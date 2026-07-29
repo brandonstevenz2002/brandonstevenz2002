@@ -132,13 +132,6 @@ Soy un desarrollador **Full Stack** con enfoque en la creación de soluciones co
 
 <br /><br />
 
-| 🏆 **Contribuciones Totales** | 🔥 **Racha Actual** | ⏳ **Racha Más Larga** |
-|-------------------------------|----------------------|-------------------------|
-| <span style="font-size:2.5em; color:#00F5FF;">209</span> | <span style="font-size:2.5em; color:#00F5FF;">2 días</span> | <span style="font-size:2.5em; color:#00F5FF;">4 días</span> |
-| *Feb 19, 2024 - Present* | *Jul 27 - Jul 28* | *Apr 26 - Apr 29, 2025* |
-
-<br />
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=brandonstevenz2002&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&count_private=true" />
   
 <img width="49%" src="https://streak-stats.demolab.com/?user=brandonstevenz2002&theme=radical&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" />
