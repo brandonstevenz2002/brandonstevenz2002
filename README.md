@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **microservices architecture** and **cloud computing**.
 
-- 📫 How to reach me **brandonstevenz2002@gmail.com**
+- 📫 How to reach me **brandonstevenvm@gmail.com**
 
 - ⚡ Fun fact :- **I love movies and technology** 🎬💻.
 
